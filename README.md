@@ -3,3 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIANIANKNIA)](https://github.com/NIANIANKNIA/)
 
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NIANIANKNIA)
+
+
